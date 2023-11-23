@@ -2,6 +2,11 @@
 
 A tool that can scan a file and output the results in a console, using the Opswat API.
 
+## How to Install
+
+1. Download github release
+2. Unzip archive containing executable + appsettings
+
 ## How to Run
 
 To use the Opswat File Scan Tool, run the executable from the command line with the following syntax:
