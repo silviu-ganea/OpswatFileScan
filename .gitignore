@@ -1,0 +1,166 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/[Pp]ackages/repositories.config
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Benchmark Results
+BenchmarkDotNet.Artifacts/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+*.user
+*.suo
+*.cache
+*.csproj.user
+*.vbproj.user
+*.vcxproj.user
+*.vcxproj.filters
+*.pdb
+*.opendb
+*.mdf
+*.ldf
+*.dbmdl
+*.jfm
+*.dfm
+*.dsw
+*.hpp
+*.hxx
+*.licx
+*.resx
+*.resources
+*.datasource
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+*.rdl.data
+*.bcp
+*.idb
+*.obj
+*.sdf
+*.opensdf
+*.opt
+*.o
+*.ex
+*.out
+*.appxrecipe
+*.log
+*.log.*
+*.plg
+*.sql
+*.sqlproj.user
+*.msscci
+*.scc
+*.userosscache
+*.dbmdl
+*.suo
+*.aps
+*.tmp
+*.cfm
+*.mdf
+*.ldf
+*.dbmdl
+*.cpp
+*.h
+*.cxx
+*.sln.ide
+*.VC.db
+*.VC.VC.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# Windows image files
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
